@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on a research project for the application of Machine Learning/AI models in legal context<br>🌱 I’m currently learning the basis of Machine Learning, Deep Learning and Natural Language Processing<br>💬 How to reach me: fabrizio.desantis@studenti.unipr.it<br>⚡ Current meme: Max Pisciola
+🔭 I’m currently working on a research project for the application of Machine Learning/AI models in legal context<br>🌱 I’m currently learning the basis of Machine Learning, Deep Learning and Natural Language Processing<br>💬 How to reach me: fabrizio.desantis@studenti.unipr.it<br>
 
 
 ## 🌐 Socials:
