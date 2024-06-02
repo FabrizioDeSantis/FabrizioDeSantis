@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 # About Me:
-🔭 I’m currently working on a research project for the application of Machine Learning/AI models in legal context<br>🌱 I’m currently learning the basis of Machine Learning, Deep Learning and Natural Language Processing<br>💬 How to reach me: fabrizio.desantis@studenti.unipr.it<br>
+🔭 I’m currently working on research projects for the application of Machine Learning/AI models in Process Mining<br>🌱 How to reach me: fabrizio.desantis@unipr.it<br>
 
 
 ## 🌐 Socials:
