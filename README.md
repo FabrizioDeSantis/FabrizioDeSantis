@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 # About Me:
 🔭 I’m currently working on research projects for the application of Machine Learning/AI models in Process Mining<br>🌱 How to reach me: fabrizio.desantis@unipr.it<br>
 
